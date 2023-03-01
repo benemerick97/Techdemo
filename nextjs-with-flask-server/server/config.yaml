@@ -1,7 +1,7 @@
 # ----- PINECONE CONFIG -----
-PINECONE_API_KEY: "<your Pinecone API key>"
-PINECONE_INDEX: "<your Pinecone Index name>" # dimensions: 1536, metric: cosine similarity
-PINECONE_ENV: "<your Pinecone env e.g.us-west1-gcp>"
+PINECONE_API_KEY: "51dee9e5-0045-44db-af14-fe5d9b7bb087"
+PINECONE_INDEX: "thermotechnical" # dimensions: 1536, metric: cosine similarity
+PINECONE_ENV: "us-east1-gcp"
 
 # ----- SERVER PORT ----
 SERVER_PORT: "8080"
